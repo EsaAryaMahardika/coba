@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "coba.app"
-               BlueprintName = "coba"
-               ReferencedContainer = "container:coba.xcodeproj">
+               BuildableName = "woco.app"
+               BlueprintName = "woco"
+               ReferencedContainer = "container:woco.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "cobaTests.xctest"
-               BlueprintName = "cobaTests"
-               ReferencedContainer = "container:coba.xcodeproj">
+               BuildableName = "wocoTests.xctest"
+               BlueprintName = "wocoTests"
+               ReferencedContainer = "container:woco.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "coba.app"
-            BlueprintName = "coba"
-            ReferencedContainer = "container:coba.xcodeproj">
+            BuildableName = "woco.app"
+            BlueprintName = "woco"
+            ReferencedContainer = "container:woco.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "coba.app"
-            BlueprintName = "coba"
-            ReferencedContainer = "container:coba.xcodeproj">
+            BuildableName = "woco.app"
+            BlueprintName = "woco"
+            ReferencedContainer = "container:woco.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
